@@ -1,6 +1,7 @@
+# 💫 About Me:
 - 👋 Hi, I’m Vishesh-Tripathi
 - 👀 I’m interested in .Coding..
-- 🌱 I’m currently learning ..DSA with C++.,Front-End Developement
+- 🌱 I’m currently learning ..DSA with C++.,
 - 📫 How to reach me ...tripathiishu467@gmail.com
 
 
@@ -25,6 +26,10 @@
 
 
 </div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vishesh-Tripathi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
