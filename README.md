@@ -1,8 +1,12 @@
-# 💫 About Me:
-- 👋 Hi, I’m Vishesh-Tripathi
-- 👀 I’m interested in .Coding..
-- 🌱 I’m currently learning ..DSA with C++.,
-- 📫 How to reach me ...tripathiishu467@gmail.com
+👋 Hi, I'm Vishesh Tripathi
+
+💻 I'm passionate about coding, building real-world projects, and exploring new technologies.
+
+🚀 Currently diving deep into Data Structures and Algorithms (DSA) using C++
+
+🌐 I also enjoy working on web development projects and constantly improving my skillset.
+
+📫 You can reach me at: tripathiishu467@gmail.com
 
 
 # 💻 Tech Stack:
